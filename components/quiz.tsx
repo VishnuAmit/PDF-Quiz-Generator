@@ -72,6 +72,7 @@ const QuestionCard: React.FC<{
   );
 };
 
+
 export default function Quiz({
   questions,
   clearPDF,
@@ -217,3 +218,4 @@ export default function Quiz({
     </div>
   );
 }
+
